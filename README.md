@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning at SKKU (2017.03 ~)
+- 🌱 I’m currently learning at SKKU Statistics / Samsung Convergence Software Course (2017.03 ~)
 <!--
 **victolee0/victolee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
