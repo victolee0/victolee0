@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning at SKKU Statistics / Samsung Convergence Software Course (2017.03 ~)
+- 🌱 I’m currently learning at SKKU (SungKyunKwan University) (2017.03 ~ ) 
+- Statistics (2018.03 ~ )/ Samsung Convergence Software Course (2018.03 ~ )
+- ⚡I'm interested in data visualization / data analysis
 <!--
 **victolee0/victolee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
