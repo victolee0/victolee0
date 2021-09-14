@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning at SKKU (SungKyunKwan University) (2017.03 ~ ) 
+- 🌱 I’m currently learning at SKKU (Sungkyunkwan University) (2017.03 ~ ) 
 - Statistics (2018.03 ~ )/ Samsung Convergence Software Course (2018.03 ~ )
 - ⚡I'm interested in data visualization / data analysis
 <!--
