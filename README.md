@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning at ```SKKU (Sungkyunkwan University)``` (2017.03 ~ ) 
 - ```Statistics``` (2018.03 ~ )/ ```Samsung Convergence Software Course``` (2018.03 ~ )
-- Samsung Medical Center AI Research Center (2022.01 ~ )
-- ⚡I'm interested in data visualization / data analysis
+- ```Samsung Medical Center AI Research Center``` (2022.01 ~ )
+- ⚡I'm interested in ```Computer Vision``` / ```X-AI``` / ```data visualization``` / ```data analysis``` 
 <!--
 **victolee0/victolee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
