@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning at ```SKKU (Sungkyunkwan University)``` (2017.03 ~ ) 
 - ```Statistics``` (2018.03 ~ )/ ```Samsung Convergence Software Course``` (2018.03 ~ )
 - ```Statistical Analysis group P-SAT (Dept. of Statistics in Sungkyunkwan)``` (2021.03 ~ )
-  * Deep Learning Team Member
+  * Deep Learning Team MemberCancel changes
   * Deep Learning Team Leader
 - ```Samsung AI medical research center``` (2022.01 ~ )
 - ⚡I'm interested in ```Computer Vision``` / ```X-AI``` / ```data visualization```
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=vbnmzx1)](https://solved.ac/vbnmzx1)
+-->
